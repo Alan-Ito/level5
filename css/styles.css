@@ -1,0 +1,66 @@
+.header {
+  background: white;
+  width: 100%;
+  height: 75px;
+  display: inline-block;
+  vertical-align: bottom;
+}
+
+.header_contents {
+  max-width: 1170px;
+  margin: 0 auto;
+  padding: 12px 0px 16px 0px;
+}
+
+.header_logo {
+  scale: 0.5;
+}
+
+.header_sub_title {
+  font-weight: bold;
+}
+
+body {
+  
+}
+
+.header_contact {
+  float: right;
+  background: Red;
+  color: white;
+  width: 300px;
+  height: 40px;
+  line-height: 40px;
+  border-radius: 60px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.header_contact:hover {
+  cursor: pointer;
+  opacity: 1.0;
+}
+
+.attain_stable_life {
+  position: relative;
+  width: 100%;
+  height: 500px;
+  background-image: url(../img/main.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.stable_life_texts{
+  position: absolute;
+  text-align: center;
+  top:50%;
+  left: 50%;
+  transform:translate(-50%, -50%);
+}
+
+.application{
+  position: relative;
+  height: 440px;
+  background: #ebb94d;
+}
