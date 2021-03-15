@@ -63,4 +63,13 @@ body {
   position: relative;
   height: 440px;
   background: #ebb94d;
+  color:white;
+}
+
+.application_texts{
+  position: absolute;
+  text-align: center;
+  top:50%;
+  left: 50%;
+  transform:translate(-50%, -50%);
 }
