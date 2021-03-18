@@ -91,3 +91,66 @@ body {
   left: 50%;
   transform:translate(-50%, -50%);
 }
+
+.whatis-iSara{
+  background-color: #FDF5E0;
+  text-align: center;
+  padding-bottom: 60px;
+}
+
+.inBrackets{
+  padding-top: 50px;
+  padding-bottom: 20px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+
+.whatis-iSara .focus-on-earning{
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.required-skills-container{
+  background: #fff;
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid #ebb94d;
+  border-radius: 3px;  
+  padding-bottom:40px;
+}
+
+
+.required-skills-container .protfitable5skills{
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.required-skills-container ul{
+  justify-content: center;
+  display: flex;
+}
+
+.not-ordinary{
+  background-image: url(../img/aboutsecondbg.jpg);
+  text-align: center;
+  color:white;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.not-ordinary .no-basic-skills{
+  font-size: 25px;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.yellowtxt{
+  color: #ebb94d;
+}
+
